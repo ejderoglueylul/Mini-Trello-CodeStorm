@@ -8,21 +8,21 @@ Projenin temel amacı, kullanıcıların görevleri kolay bir şekilde oluştura
 
 Kanban board yapısında görevler üç ana kategori altında gösterilecektir. Bunlar yapılacak görevler, üzerinde çalışılan görevler ve tamamlanmış görevler olarak ayrılacaktır.
 
- # 🎯 Projenin Amaçları
-📌 Görev yönetimini daha sistematik hale getirmek
-📊 Proje sürecini görsel olarak takip etmek
-👨‍💻 Kullanıcıların görevleri kolay şekilde yönetmesini sağlamak
-📁 Python ile masaüstü uygulama geliştirme deneyimi kazanmak
-🧠 Yazılım geliştirme sürecini öğrenmek
-⚙ PyQt arayüz geliştirme pratiği yapmak
-⭐ Temel Özellikler[edit]
+ #  Projenin Amaçları
+ Görev yönetimini daha sistematik hale getirmek
+ Proje sürecini görsel olarak takip etmek
+ Kullanıcıların görevleri kolay şekilde yönetmesini sağlamak
+ Python ile masaüstü uygulama geliştirme deneyimi kazanmak
+ Yazılım geliştirme sürecini öğrenmek
+ PyQt arayüz geliştirme pratiği yapmak
+ Temel Özellikler
 
 
  # Özellik	Açıklama
-📌 Görev Oluşturma	Kullanıcı yeni görev ekleyebilir ve görev başlığı ile açıklama girebilir.
-✏ Görev Düzenleme	Oluşturulan görevler daha sonra düzenlenebilir.
-🗑 Görev Silme	Artık gerekli olmayan görevler sistemden kaldırılabilir.
-👤 Görev Atama	Kullanıcılar belirli görevleri başka kullanıcılara atayabilir.
-⚡ Öncelik Sistemi	Görevler Low, Medium ve High olarak önceliklendirilebilir.
-📊 Durum Takibi	Görevler To Do, In Progress ve Done kategorilerinde gösterilir.
+ Görev Oluşturma	Kullanıcı yeni görev ekleyebilir ve görev başlığı ile açıklama girebilir.
+ Görev Düzenleme	Oluşturulan görevler daha sonra düzenlenebilir.
+ Görev Silme	Artık gerekli olmayan görevler sistemden kaldırılabilir.
+ Görev Atama	Kullanıcılar belirli görevleri başka kullanıcılara atayabilir.
+ Öncelik Sistemi	Görevler Low, Medium ve High olarak önceliklendirilebilir.
+ Durum Takibi	Görevler To Do, In Progress ve Done kategorilerinde gösterilir.
 
